@@ -1,6 +1,8 @@
 # Epic-Eats
 Epic Eats is a user-friendly web app made with Python and MongoDB. Customers can select items, and a unique QR code is generated for their order. The admin panel helps manage orders and check the QR code's validity. The system aims to make canteen operations smoother and enhance the user experience for both customers and the canteen staff.
 
+## Demo Video
+https://www.youtube.com/watch?v=rz7G4oQP4Oo
 
 ## Prerequisites
 - Python 3
