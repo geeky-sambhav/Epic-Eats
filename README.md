@@ -5,7 +5,7 @@ Epic Eats is a user-friendly desktop app made with Python and MongoDB. Customers
 https://www.youtube.com/watch?v=rz7G4oQP4Oo
 
 ## Prerequisites
-- Python 3
+- Python 
 
 ## Usage
 
@@ -14,10 +14,9 @@ https://www.youtube.com/watch?v=rz7G4oQP4Oo
 $ pip install -r requirements.txt
 ```
 - Edit the config.py and add your MongoDB URL.
-- Navigate to admin or client or scanner folder and run `python3 main.py`
+- Navigate to admin or client or scanner folder and run `python main.py`
 
-## How to use it?
-The repo comprises of 3 folders, they are client, scanner and admin.
+
 
 - ### Client
     Customers can use the client application to place new orders, view already ordered orders. Once the order is placed, A QR Code is generated. Customer needs to scan this QR Code with the Canteen's Scanner to get food and final receipt. 
