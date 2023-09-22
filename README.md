@@ -7,16 +7,6 @@ https://www.youtube.com/watch?v=rz7G4oQP4Oo
 ## Prerequisites
 - Python 
 
-## Usage
-
-- Install Dependencies :
-```
-$ pip install -r requirements.txt
-```
-- Edit the config.py and add your MongoDB URL.
-- Navigate to admin or client or scanner folder and run `python main.py`
-
-
 
 - ### Client
     Customers can use the client application to place new orders, view already ordered orders. Once the order is placed, A QR Code is generated. Customer needs to scan this QR Code with the Canteen's Scanner to get food and final receipt. 
